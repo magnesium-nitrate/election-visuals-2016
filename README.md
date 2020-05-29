@@ -1,6 +1,6 @@
 # 2016 Election Map
 
-![Alt Text] https://github.com/magnesium-nitrate/election-visuals-2016/edit/master/contin-map.gif
+![Alt Text] https://github.com/magnesium-nitrate/election-visuals-2016/blob/master/contin-map.gif
 
 ## About the code
 * I took the 2016 election data and created a map that shows how democrat or republican a certain county is
