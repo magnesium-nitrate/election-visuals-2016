@@ -12,6 +12,7 @@
 * Download the electionmap2016.ipynb and open it in google colab
 * Functions that are needed to run the code are included in the !pip install statements
 * The data is in genelc2016.csv and you can find the original csv file at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
+* The dataset by state can be found here: https://data.world/vcjaladi/2016-elections-data
 
 ## Viewing the Map
 * You can download the map as a png file or as an interactive html file
