@@ -1,4 +1,4 @@
-# 2016 Election Map
+# Presidential Election Maps from 2016 and 2020
 
 ![image](https://github.com/magnesium-nitrate/election-visuals-2016/blob/master/contin-map.gif)
 
